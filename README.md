@@ -1,14 +1,18 @@
 <p align="center">
-
+<img src="https://raw.githubusercontent.com/FixczGG/Chaos-Dimensional/main/pack_icon.png" alt="Addon Icon" width=350>
 <h3 align="center">Chaos Dimensional</h3>
   
 <p align="center">
-Una Serie Hardcore creada por SoyFixcz y organizada por JexnFr. Donde tendrás que sobrevivir 23 dias ¿Lograras Sobrevivir Todos Los Dias?
+Una Serie Hardcore creada por SoyFixcz y organizada por JexnFr. Con duracion de 20 dias ¿Lograras Sobrevivir Todos Los Dias?
 <p align="center">
 
-<p align="center">
-  <a href="https://discord.gg/WH9KpNWXUz"><img src="https://img.shields.io/discord/782053401281429504?style=plastic&color=red&logo=discord&label=Unete%20al%20Servidor%20de%20Discord" alt="Unete a mi servidor de Discord "/></a>
-</p>
-<p align="center">
-  <a href="https://twitter.com/Ha_Juegos"><img src="https://img.shields.io/twitter/follow/Ha_Juegos?style=plastic&color=success&logo=twitter&label=HaJuegos%20Cat!%20Twitter" alt="HaJuegos Twitter"/></a>
- 
+## ¿COMO PUEDO PARTICIPAR?
+- Por ahora no hay una forma de participar ya que la serie esta en pleno desarrollo una vez que se complete todo se avisara para que puedan participar. Para estar mas informado/a unete al [Servidor de Discord](https://discord.gg/CDbvf2WhC8).
+
+## AVANCES
+- Dia 0 : Testeando el Add-on
+- Dia 4 : Recien iniciado
+- Dia 8 : Verificando ideas
+- Dia 12 : No iniciado
+- Dia 16 : No iniciado
+- Dia 20 : No iniciado
