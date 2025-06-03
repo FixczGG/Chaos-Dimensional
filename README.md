@@ -10,9 +10,10 @@ Una Serie Hardcore creada por SoyFixcz y organizada por JexnFr. Con duracion de 
 - Por ahora no hay una forma de participar ya que la serie esta en pleno desarrollo una vez que se complete todo se avisara para que puedan participar. Para estar mas informado/a unete al [Servidor de Discord](https://discord.gg/CDbvf2WhC8).
 
 ## AVANCES
-- Dia 0 : Testeando el Add-on
-- Dia 4 : Recien iniciado
+- Dia 0 : Verificando ideas
+- Dia 4 : Verificando ideas
 - Dia 8 : Verificando ideas
 - Dia 12 : No iniciado
 - Dia 16 : No iniciado
 - Dia 20 : No iniciado
+- Dia 24 : Sin Nada
