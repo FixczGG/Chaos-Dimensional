@@ -3,7 +3,7 @@
 <h3 align="center">Chaos Dimensional</h3>
   
 <p align="center">
-Una Serie Hardcore creada por SoyFixcz y organizada por JexnFr. Con duracion de 20 dias ¿Lograras Sobrevivir Todos Los Dias?
+Una Serie Hardcore creada por SoyFixcz ademas de JexnFr y organizada por RexSplode . Con duracion de 24 dias ¿Lograras Sobrevivir Todos Los Dias?
 <p align="center">
 
 ## ¿COMO PUEDO PARTICIPAR?
