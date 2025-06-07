@@ -6,9 +6,10 @@
  - Al parecer todos los Saqueadores con banderas se quedaron sin pociones de Mal Presagio.
  - El Evocador ahora tiene un 10% de soltar un Totem de la inmortalidad al morir.
  - Ahora cuando un jugador muere castigara a un jugador aleatorio con una maldicion.
- - Ha aparecido la Cruz Bendecida y al usarla te quitara la maldicion.
- - Ahora las Brujas tienen mas vida y sueltan la Cruz Bendecida con un 15% de probabilidad.
- - Ahora se pueden craftear Totems de la Inmortalidad.
+ - Ha aparecido el Extractor de Maldiciones y al usarla te quitara la maldicion.
+ - Ahora las Brujas tienen mas vida y ademas de tener una habilidad secreta y pueden soltar un Extractor de Maldiciones con un 20% de probabilidad al morir.
+ - Ahora se pueden craftear los Totems de la Inmortalidad, pero son muy costosos.
+ - Los Murcielagos tienen la habilidad de poder explotar solo que su nivel de explosion es muy baja.
 
 # DIA 4 
  - Ahora las Vacas, Pollos, Ovejas y Cerdos son siempre agresivos y al golpearte te daran hambre IV por 10 segundos.
