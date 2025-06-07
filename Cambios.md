@@ -5,7 +5,7 @@
  - El Golem de Hierro ha mejorado su fuerza y ahora rompe bloques y siempre sera agresivo.
  - Al parecer todos los Saqueadores con banderas se quedaron sin pociones de Mal Presagio.
  - El Evocador ahora tiene un 10% de soltar un Totem de la inmortalidad al morir.
- - Ahora cuando un jugador muer castigara a un jugador aleatorio con una maldicion.
+ - Ahora cuando un jugador muere castigara a un jugador aleatorio con una maldicion.
  - Ha aparecido la Cruz Bendecida y al usarla te quitara la maldicion.
  - Ahora las Brujas tienen mas vida y sueltan la Cruz Bendecida con un 15% de probabilidad.
  - Ahora se pueden craftear Totems de la Inmortalidad.
