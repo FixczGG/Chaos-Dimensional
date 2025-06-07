@@ -1,10 +1,10 @@
 ## CAMBIOS DE DIFICULTAD
 # DIA 0
- - Al entrar por primera vez recibiras 1 Totem de la inmortalidad y 16 Chuletas de Cerdo.
+ - Al entrar por primera vez recibiras 2 Totems de la inmortalidad y 16 Chuletas de Cerdo.
  - Ahora solo se necesita de una persona para pasar la noche.
  - El Golem de Hierro ha mejorado su fuerza y ahora rompe bloques y siempre sera agresivo.
  - Al parecer todos los Saqueadores con banderas se quedaron sin pociones de Mal Presagio.
- - El Evocador ahora tiene un 10% de soltar un Totem de la inmortalidad extra al morir.
+ - El Evocador ahora tiene un 10% de soltar un Totem de la inmortalidad al morir.
  - Ahora cuando un jugador muer castigara a un jugador aleatorio con una maldicion.
  - Ha aparecido la Cruz Bendecida y al usarla te quitara la maldicion.
  - Ahora las Brujas tienen mas vida y sueltan la Cruz Bendecida con un 15% de probabilidad.
