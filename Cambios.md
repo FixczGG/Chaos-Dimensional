@@ -1,5 +1,7 @@
-## CAMBIOS DE DIFICULTAD
-# DIA 0
+```txt
+Lista de Cambios de Dificultad
+
+• Dia 0:
  - Se agrego el Totem Rapido, consiste en que al dar click derecho o mantener apretada la pantalla podras mover el Totem de la Inmortalidad a la otra mano.
  - Cuando un jugador activa un Totem de la Inmortalidad mandara un aviso en el chat.
  - Cuando alguien muere generara un fantasma que guardara sus cosas y ademas de que se enviara las coordenadas donde murio.
