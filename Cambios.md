@@ -1,32 +1,44 @@
 ## CAMBIOS DE DIFICULTAD
 # DIA 0
+ - Se agrego el Totem Rapido, consiste en que al dar click derecho o mantener apretada la pantalla podras mover el Totem de la Inmortalidad a la otra mano.
+ - Cuando un jugador activa un Totem de la Inmortalidad mandara un aviso en el chat.
+ - Cuando alguien muere generara un fantasma que guardara sus cosas y ademas de que se enviara las coordenadas donde murio.
  - Al entrar por primera vez recibiras 2 Totems de la inmortalidad y 16 Chuletas de Cerdo.
- - Ahora solo se necesita de una persona para pasar la noche.
+ - Solo es necesario de 1 persona para poder avanzar la noche.
  - El Golem de Hierro ha mejorado su fuerza y ahora rompe bloques y siempre sera agresivo.
  - Al parecer todos los Saqueadores con banderas se quedaron sin pociones de Mal Presagio.
  - El Evocador ahora tiene un 10% de soltar un Totem de la inmortalidad al morir.
- - Ahora cuando un jugador muere castigara a un jugador aleatorio con una maldicion.
- - Ha aparecido el Extractor de Maldiciones y al usarla te quitara la maldicion.
- - Ahora las Brujas tienen mas vida y ademas de tener una habilidad secreta y pueden soltar un Extractor de Maldiciones con un 20% de probabilidad al morir.
+ - Ahora cuando un jugador muere castigara a un jugador aleatorio mandandole una maldicion permanente.
+ - Ahora las Brujas tienen mas vida y ademas de tener una habilidad secreta.
  - Ahora se pueden craftear los Totems de la Inmortalidad, pero son muy costosos.
  - Los Murcielagos tienen la habilidad de poder explotar solo que su nivel de explosion es muy baja.
+ - Se agregaron 1 nuevo item:
+         - Extractor de Maldiciones:
+               - Al usarse te quitara la maldicion
+               - Se consigue matando Brujas con un 25% de probabilidad de que la suelten
 
 # DIA 4 
  - Ahora las Vacas, Pollos, Ovejas y Cerdos son siempre agresivos y al golpearte te daran hambre IV por 10 segundos.
- - Al lanzar una Perla del End hay un 5% de generar un Vex en tu posicion.
- - Todos las clases de Zombies tienen una Armadura de Hierro encantada, ademas de Fuerza III y velocidad II.
  - Ahora los Slimes tienen resistencia IV y cuando te ataquen teletransportaran a una entidad cercana a su posicion.
- - Algunos Blazes ahora aparecen en las Islas Champiñon, pero su generacion es demasiado baja.
- - Los Creepers ahora explotan mas rapido y son mas veloces.
- - Ha aparecido la Reliquia Mortal y al usarla hay un 20% de que te aumente 4 corazones y un 50& de que recibas wither V por 30 segundos.
- - La Reliquia Mortal puede ser crafteada usando 1 cabeza de wither y 4 manzanas de oro a su alrededor.
- - Ahora aparecen Esqueletos Wither en las Deep Dark y al golpearte te daran lentitud III y ceguera por 5 segundos.
- - Los Saqueadores ahora pueden llegar a ser una de estas variantes:
-       - Saqueador Tactico : Dispara flechas que tienen el poder de romper armaduras y asesinar al que este cerca de el.
-       - Saqueador Maniaco : Disparara flechas como si su vida dependiera de ello.
+ - Algunos Blazes pueden aparecer en las Islas Champiñon pero su generacion es baja.
+ - Todas las variantes de Zombies tienen una Armadura de Hierro y una Espada de Diamante equipada.
+ - Ahora aparecen Esqueletos Wither en las Ancient Citys y al golpearte te daran lentitud III y ceguera por 5 segundos.
+ - Todos los Creepers pueden aparecer con alguno de estos efectos:
+          - Invisibilidad
+          - Velocidad III
+          - Resistencia V
+          - Regeneracion IV
+          - Resistencia al Fuego
+   
+ - Ahora el Vex tiene 2 variantes nuevas las cuales son:
+          - Vex Toxico : Tiene 30 de vida y puede tirarte posiones de veneno, wither o lentitud.
+          - Vex Ladronsuelo : Tiene 15 de vida y al golpearte te robara un 1 item aleatorio de tu inventario.
 
-# DIA 7 
- - Ha aparecido el Casco contra Almas y sera muy util tenerlo dentro del Nether.
- - Para conseguirlo debeas craftear el Casco Vacio y luego juntarlo con 2 Almas Infernales.
- - Los Blazes ahora tienen mas vida ademas que disparan mas rafagas de bolas de fuego y dropea su Alma Infernal.
- - Algunos Magma Cubes aparecen en el Desierto y tienen una habilidad secreta y dropean una Alma Infernal.
+ - Se añaden 2 nuevos items "Corazon Mortal" y "Nucleo de Blaze":
+          - Corazon Mortal:
+                - Al usarse hay un 10% de que te aumente 4 Corazones y un 50% de que te de Wither V por 10 segundos
+                - Se consigue usando 1 Cabeza de Wither y 4 Manzanas de Oro y 4 de Piedra
+
+          - Nucleo de Blaze:
+                - Al usarse te dara Resistencia al Fuego por 5 minutos
+                - Se consigue matando algunos blazes con un 5% de probabilidad de que lo suelte.
