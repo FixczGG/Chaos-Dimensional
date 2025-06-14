@@ -2,10 +2,15 @@
 Lista de Cambios de Dificultad
 
 • Dia 0:
- - Se agrego el Totem Rapido, consiste en que al dar click derecho o mantener apretada la pantalla podras mover el Totem de la Inmortalidad a la otra mano.
- - Cuando un jugador activa un Totem de la Inmortalidad mandara un aviso en el chat.
- - Cuando alguien muere generara un fantasma que guardara sus cosas y ademas de que se enviara las coordenadas donde murio.
- - Al entrar por primera vez recibiras 2 Totems de la inmortalidad y 16 Chuletas de Cerdo.
+ - Cuando un jugador muere pasara lo siguiente:
+         - Habra una alerta de su ubicacion donde murio.
+         - Se generara un Fantasma con las cosas del jugador muerto en la posicion del jugador
+         - Mandara una maldicion a un jugador aleatorio.
+
+ - Al entrar por primera vez recibiras lo siguiente:
+         - 2 Totems de la Inmortalidad
+         - 16 Chuletas Cocinadas
+   
  - Solo es necesario de 1 persona para poder avanzar la noche.
  - El Golem de Hierro ha mejorado su fuerza y ahora rompe bloques y siempre sera agresivo.
  - Al parecer todos los Saqueadores con banderas se quedaron sin pociones de Mal Presagio.
@@ -14,12 +19,13 @@ Lista de Cambios de Dificultad
  - Ahora las Brujas tienen mas vida y ademas de tener una habilidad secreta.
  - Ahora se pueden craftear los Totems de la Inmortalidad, pero son muy costosos.
  - Los Murcielagos tienen la habilidad de poder explotar solo que su nivel de explosion es muy baja.
+
  - Se agregaron 1 nuevo item:
          - Extractor de Maldiciones:
                - Al usarse te quitara la maldicion
                - Se consigue matando Brujas con un 25% de probabilidad de que la suelten
 
-# DIA 4 
+• Dia 4:
  - Ahora las Vacas, Pollos, Ovejas y Cerdos son siempre agresivos y al golpearte te daran hambre IV por 10 segundos.
  - Ahora los Slimes tienen resistencia IV y cuando te ataquen teletransportaran a una entidad cercana a su posicion.
  - Algunos Blazes pueden aparecer en las Islas Champiñon pero su generacion es baja.
